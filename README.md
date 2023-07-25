@@ -1,6 +1,6 @@
 # Slide Extractor
 A python script designed to extract slides from lecture videos.
-This a corrected vesrion from https://github.com/realChesta/slide-extractor/
+This a corrected version from https://github.com/realChesta/slide-extractor/
 
 It has been corrected for a better detection of the size of the slides in duplicatehandler.py.
 
